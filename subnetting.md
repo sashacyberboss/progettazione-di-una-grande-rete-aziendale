@@ -14,7 +14,7 @@ L'azienda è una big nel mercato IT, con reparti per ogni branca tecnica e ammin
 
 ## 📊 Analisi dei Reparti
 
-I reparti sono stati ordinati in modo **decrescente per numero di host**, tecnica fondamentale nel calcolo VLSM per evitare sprechi e sovrapposizioni.
+I reparti sono stati ordinati in modo **decrescente per numero di host**, tecnica fondamentale nel calcolo VLSM per evitare sprechi di host e sovrapposizioni.
 
 | Reparto | Host Richiesti |
 |---|---|
