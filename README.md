@@ -1,4 +1,3 @@
-
 **Progettazione e implementazione di una rete aziendale enterprise-grade**
 con sicurezza multi-livello, segmentazione VLAN e architettura DMZ a doppio firewall.
 
@@ -14,7 +13,7 @@ con sicurezza multi-livello, segmentazione VLAN e architettura DMZ a doppio fire
 - [Segmentazione VLAN](#-segmentazione-vlan)
 - [Infrastruttura Server](#-infrastruttura-server)
 - [Sicurezza e Firewall](#-sicurezza-e-firewall)
-- [Connettività WAN](#-connettività-wan)
+- [Connettività WAN](#-connettivit-wan)
 - [Sicurezza delle Comunicazioni](#-sicurezza-delle-comunicazioni)
 - [VPN IPsec](#-vpn-ipsec)
 
